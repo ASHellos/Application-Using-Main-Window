@@ -550,7 +550,7 @@ int main(int argc, char *argv[])
 
 
 
-## <span style="color:blue">2-Text Editor</span>{#Text_Editor}
+## <span style="color:blue">2-Text Editor</span> {#Text_Editor}
 
 * * *
 ## <span style="color:blue">main.cpp</span>
