@@ -8,10 +8,10 @@ In our project on QMainWindow, we wrote the code for the chart and the action se
 
 ## <span style="color:red">Summary:</span>
 
-     * [SpreadSheet (Functionality)] (#SpreadSheet)
-     * [Text Editor] (#Text Editor)
+ * [SpreadSheet (Functionality)](#SpreadSheet)
+ * 
+ * [Text Editor](#Text Editor)
      
-   * [Experimenting with QHBOXLayout](#Experimenting_with_QHBOXLayout)
      
 #### <span style="color:blue">1-SpreadSheet</span> {#SpreadSheet}
 
