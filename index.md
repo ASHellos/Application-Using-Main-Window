@@ -11,6 +11,8 @@ In our project on QMainWindow, we wrote the code for the chart and the action se
      * [SpreadSheet (Functionality)] (#SpreadSheet)
      * [Text Editor] (#Text Editor)
      
+   * [Experimenting with QHBOXLayout](#Experimenting_with_QHBOXLayout)
+     
 #### <span style="color:blue">1-SpreadSheet</span> {#SpreadSheet}
 
  A spreadsheet is a computer application for organization, analysis, and storage of data in tabular form Or we can say the spreadSheet is worksheet edit a file made of rows and columns that help sort, organize, and arrange data efficiently, and calculate numerical data. What makes a spreadsheet software program unique is its ability to calculate values using mathematical formulas and the data in cells. An example of how a spreadsheet may be utilized is creating an overview of your bank's balance.
