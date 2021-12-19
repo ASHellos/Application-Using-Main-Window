@@ -11,7 +11,7 @@ In our project on QMainWindow, we wrote the code for the chart and the action se
  * [SpreadSheet (Functionality)](#SpreadSheet)
  
 
- * [Text Editor](#Text_Editor)
+ * [Text Editor](#TextEditor)
      
      
 #### <span style="color:blue">1-SpreadSheet</span> {#SpreadSheet}
@@ -550,7 +550,7 @@ int main(int argc, char *argv[])
 
 
 
-## <span style="color:blue">2-Text Editor</span> {#Text_Editor}
+## <span style="color:blue">2-Text Editor</span> {#TextEditor}
 
 * * *
 ## <span style="color:blue">main.cpp</span>
