@@ -9,8 +9,9 @@ In our project on QMainWindow, we wrote the code for the chart and the action se
 ## <span style="color:red">Summary:</span>
 
  * [SpreadSheet (Functionality)](#SpreadSheet)
- * 
- * [Text Editor](#Text Editor)
+ 
+
+ * [Text Editor](#Text_Editor)
      
      
 #### <span style="color:blue">1-SpreadSheet</span> {#SpreadSheet}
@@ -549,7 +550,7 @@ int main(int argc, char *argv[])
 
 
 
-## <span style="color:blue">2-Text Editor</span>{#Text Editor}
+## <span style="color:blue">2-Text Editor</span>{#Text_Editor}
 
 * * *
 ## <span style="color:blue">main.cpp</span>
